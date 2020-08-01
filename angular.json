@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shopping-list-and-recipe-book"
+    }
+  },
+  "defaultProject": "shopping-list-and-recipe-book",
+  "cli": {
+    "analytics": false
+  }
 }
